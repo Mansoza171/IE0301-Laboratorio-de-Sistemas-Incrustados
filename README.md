@@ -6,7 +6,7 @@ Escuela de Ingeniería Eléctrica
 Curso: IE-0301 Laboratorio de Sistemas Incrustados  
 Ciclo: I-2025
 
-## 📄 Descripción
+## Descripción
 
 Este repositorio contiene el material correspondiente a:
 
