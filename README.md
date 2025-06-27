@@ -1,7 +1,5 @@
 # IE0301-Laboratorio-de-Sistemas-Incrustados
 
-# Práctica 3 - GStreamer Acelerado
-
 **Universidad de Costa Rica**  
 Facultad de Ingeniería  
 Escuela de Ingeniería Eléctrica  
