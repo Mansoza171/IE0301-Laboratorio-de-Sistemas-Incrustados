@@ -14,7 +14,7 @@ Este repositorio contiene el material correspondiente a:
   
 - **Proyecto Final:** Desarrollo de una aplicación embebida de vigilancia inteligente que realiza detección, tracking y clasificación de objetos (personas y vehículos), incluyendo reconocimiento de marcas de vehículos, renderizado en pantalla, grabación y transmisión del video por **UDP**, utilizando **DeepStream SDK** y **GStreamer**.
 
-## Integrantes del grupo 01
+## Integrantes del grupo
 
 - Manfred Soza García
 - Andrés Artavia Solano 
